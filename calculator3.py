@@ -97,8 +97,8 @@ button_0.grid(row=4, column=0)
 button_add.grid(row=1, column=3)
 button_subtract.grid(row=2, column=3)
 button_div.grid(row=3, column=3)
-button_multi.grid(row=4,column=3)
-button_equal.grid(row=4, column=2)
+button_multi.grid(row=4,column=2)
+button_equal.grid(row=4, column=3)
 button_clear.grid(row=4, column=1)
 
 # Run the application
